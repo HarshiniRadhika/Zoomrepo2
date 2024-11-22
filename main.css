@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px;
+    margin-right: 100px;
+}
+button{
+    height: 30px;
+    width: 35px;
+    border-radius: 5px;
+}
+footer{
+    margin-top: 220px;
+}
+.b{
+    background-color: orange;
+}
+.b1{
+    background-color: rgb(14, 145, 233);
+}
+h4{
+    color: rgb(14, 145, 233); 
+}
+h2{
+    color: white;
+}
+a{
+    color: white;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+input{
+    height: 35px;
+    width: 20%;
+    background-color: rgb(44, 43, 43);
+    color: white;
+    
+}
+button{
+    height: 35px;
+    width: 150px;
+    background-color: rgb(44, 43, 43);
+    color: white;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+ul li{
+    color:rgb(119, 117, 117) ;
+    text-align: start;
+}
+p{
+    text-align: start;
+}

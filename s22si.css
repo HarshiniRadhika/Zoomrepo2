@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: rgb(122, 120, 120);
+    text-align: center;
+}
+header{
+    text-align: center;
+    color: white;
+}
+input{
+    height: 35px;
+    width: 35%;
+    background-color: rgb(39, 38, 38);
+    text-align: center;
+    margin: 5px;
+    color: white;
+}
+img{
+    height: 30px;
+    width: 30px;
+    padding-right: 90%;
+    margin-top: 0%;
+    display: inline-block;
+}
+button{
+    height: 50px;
+    width: 25%;
+    background-color: rgb(39, 38, 38);
+    border-radius: 15px;
+    color: white;
+    margin-bottom: 2.5px;
+    
+}
+
+button i{
+    
+    padding-top: 5px ;
+    
+}
+
+
+
+
+
+

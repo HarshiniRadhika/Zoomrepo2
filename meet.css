@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+img{
+    height: 175px;
+    width: 200px;
+    margin-top: 80px;
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px;
+    margin-right: 100px;
+    margin-top: 95px;
+}
+button{
+    height: 40px;
+    width: 65px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h5{
+    color: blue;
+}
+input{
+    height: 35px;
+    width: 20%;
+    background-color: rgb(44, 43, 43);
+    color: rgb(119, 117, 117);
+    
+}
+button{
+    height: 35px;
+    width: 15%;
+    background-color: rgb(44, 43, 43);
+    color: rgb(119, 117, 117);
+    margin-top: 5px;
+    border-radius: 10px;
+}
